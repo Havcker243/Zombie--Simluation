@@ -1,4 +1,5 @@
-**ZOMBIE APOCALYPSE SIMULATION: MOYO, FABIAN, AND MATHEUS GROUP**
+**ZOMBIE APOCALYPSE SIMULATION**
+Team : MOYO, FABIAN, AND MATHEUS
 
 **Project Description:**
 This project simulates a zombie apocalypse unfolding in a vast city known as Simville. Divided into various districts, each with its own population, the catastrophe originates from a virus mistakenly released from a lab.
